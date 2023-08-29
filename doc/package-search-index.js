@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cpsc2150.extendedConnectX"},{"l":"cpsc2150.extendedConnectX.controllers"},{"l":"cpsc2150.extendedConnectX.models"},{"l":"cpsc2150.extendedConnectX.views"}]
